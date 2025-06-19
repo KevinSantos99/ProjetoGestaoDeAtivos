@@ -47,21 +47,12 @@ O sistema possui as seguintes seções:
 - **Maiores posições e maiores valorizações**
 - **Apuração de imposto de renda**
 
-## 📂 Estrutura do repositório
-
-
 ## 🚀 Como usar
 
 1. Baixe a planilha principal.
 2. Insira seus ativos e movimentações nas abas correspondentes.
 3. Visualize os relatórios atualizados automaticamente com base nas suas entradas.
 4. Navegue pelos dashboards para análises rápidas e visuais.
-
----
-
-## 📌 Tags recomendadas (GitHub)
-
-`excel` `vba` `gestao-de-investimentos` `dashboard` `data-analysis` `renda-variavel` `acoes` `fundos-imobiliarios` `portfolio-management` `financial-reporting`
 
 ---
 
